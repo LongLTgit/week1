@@ -13,3 +13,18 @@ C:\Users\Admin\Desktop\net\obj\Debug\net7.0\refint\net.dll
 C:\Users\Admin\Desktop\net\obj\Debug\net7.0\net.pdb
 C:\Users\Admin\Desktop\net\obj\Debug\net7.0\net.genruntimeconfig.cache
 C:\Users\Admin\Desktop\net\obj\Debug\net7.0\ref\net.dll
+D:\Hoa Sen\Công Nghệ Net\week1\bin\Debug\net7.0\net.exe
+D:\Hoa Sen\Công Nghệ Net\week1\bin\Debug\net7.0\net.deps.json
+D:\Hoa Sen\Công Nghệ Net\week1\bin\Debug\net7.0\net.runtimeconfig.json
+D:\Hoa Sen\Công Nghệ Net\week1\bin\Debug\net7.0\net.dll
+D:\Hoa Sen\Công Nghệ Net\week1\bin\Debug\net7.0\net.pdb
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.csproj.AssemblyReference.cache
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.AssemblyInfoInputs.cache
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.AssemblyInfo.cs
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.csproj.CoreCompileInputs.cache
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.dll
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\refint\net.dll
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.pdb
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\net.genruntimeconfig.cache
+D:\Hoa Sen\Công Nghệ Net\week1\obj\Debug\net7.0\ref\net.dll

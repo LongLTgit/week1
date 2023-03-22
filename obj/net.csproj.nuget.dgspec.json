@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\net\\net.csproj": {}
+    "D:\\Hoa Sen\\Công Nghệ Net\\week1\\net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\net\\net.csproj": {
+    "D:\\Hoa Sen\\Công Nghệ Net\\week1\\net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\net\\net.csproj",
+        "projectUniqueName": "D:\\Hoa Sen\\Công Nghệ Net\\week1\\net.csproj",
         "projectName": "net",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\net\\net.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\net\\obj\\",
+        "projectPath": "D:\\Hoa Sen\\Công Nghệ Net\\week1\\net.csproj",
+        "packagesPath": "C:\\Users\\AORUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Hoa Sen\\Công Nghệ Net\\week1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AORUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
