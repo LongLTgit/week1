@@ -32,9 +32,9 @@
 // Console.WriteLine(Hello.ToUpper());
 // Console.WriteLine(Hello.ToLower());
 
-int a = 7;
-int b = 4;
-int c = 3;
+int a = 1;
+int b = 2;
+int c = 3; 
 int d = (a + b) / c;
 int e = (a + b) % c;
 Console.WriteLine($"quotient: {d}");
